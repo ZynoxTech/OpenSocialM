@@ -4,7 +4,7 @@
 A comprehensive social and academic collaboration platform built for the students of the **Open University of Sri Lanka**. This application bridges the gap between distance learning and campus life by providing tools for networking, academic tracking, and event management.
 
 ## 🚀 Live Demo
-[View Live Demo](#) 
+[View Live Demo](#https://open-social-m-83c5.vercel.app/) 
 
 ## ✨ Key Features
 
